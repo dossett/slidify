@@ -8,6 +8,8 @@
   \item{repo}{github reponame}
 
   \item{username}{github username}
+  
+  \item{gitHost}{github host}
 }
 \description{
   You will need \code{git} installed on your computer and a
